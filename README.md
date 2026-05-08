@@ -1,2 +1,2 @@
 # sandbox
-sandboy for simple_powershell/scripts_tools
+sandbox for simple_powershell/scripts_tools
